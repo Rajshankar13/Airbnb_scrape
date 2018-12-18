@@ -1,0 +1,1100 @@
+{
+    "explore_tabs": [
+        {
+            "tab_id": "restaurant_tab",
+            "tab_name": "restaurants",
+            "pagination_metadata": {
+                "has_next_page": true,
+                "items_offset": 10,
+                "section_offset": 1
+            },
+            "sections": [
+                {
+                    "backend_search_id": "69561249-6450-4156-95d6-d8099f9f92d3",
+                    "display_type": "grid",
+                    "experiments_metadata": [],
+                    "result_type": "recommendation_items",
+                    "search_session_id": "8ae90ab4-24c0-46c5-8cff-52667957dc8f",
+                    "section_id": "8ae90ab4-24c0-46c5-8cff-52667957dc8f",
+                    "section_type_uid": "ALL_RESTAURANTS",
+                    "is_paginated": true,
+                    "bankai_section_id": "33",
+                    "refinements": [],
+                    "recommendation_items": [
+                        {
+                            "banner_picture": {
+                                "id": 638756779,
+                                "dominant_saturated_color": "#F6EFDA",
+                                "large_ro": "https://a0.muscache.com/im/pictures/96f579ba-6e5e-47a8-ab62-b1f5788b629b.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/96f579ba-6e5e-47a8-ab62-b1f5788b629b.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AYVSKwkKDd0AFiwR/puy0gGKXjkYEA32CxXx8PGswt8BNRsVKRsOzeP3FgoD8v8Emy4SdHdrzCcAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#907322",
+                                "scrim_color": "#160B13",
+                                "original_picture": "https://a0.muscache.com/pictures/96f579ba-6e5e-47a8-ab62-b1f5788b629b.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/96f579ba-6e5e-47a8-ab62-b1f5788b629b.jpg?aki_policy=x_large"
+                            },
+                            "picture": {
+                                "id": 638756779,
+                                "dominant_saturated_color": "#F6EFDA",
+                                "large_ro": "https://a0.muscache.com/im/pictures/96f579ba-6e5e-47a8-ab62-b1f5788b629b.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/96f579ba-6e5e-47a8-ab62-b1f5788b629b.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AYVSKwkKDd0AFiwR/puy0gGKXjkYEA32CxXx8PGswt8BNRsVKRsOzeP3FgoD8v8Emy4SdHdrzCcAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#907322",
+                                "scrim_color": "#160B13",
+                                "original_picture": "https://a0.muscache.com/pictures/96f579ba-6e5e-47a8-ab62-b1f5788b629b.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/96f579ba-6e5e-47a8-ab62-b1f5788b629b.jpg?aki_policy=x_large"
+                            },
+                            "description": "About \u20b93,148 per person",
+                            "query_param": {},
+                            "sub_text": "New American",
+                            "title": "Hart's",
+                            "id": 1241,
+                            "lat": 40.681444,
+                            "lng": -73.955855,
+                            "item_type": "guidebook_activity",
+                            "size": "medium",
+                            "pictures": [
+                                {
+                                    "id": 638756779,
+                                    "dominant_saturated_color": "#F6EFDA",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/96f579ba-6e5e-47a8-ab62-b1f5788b629b.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/96f579ba-6e5e-47a8-ab62-b1f5788b629b.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AYVSKwkKDd0AFiwR/puy0gGKXjkYEA32CxXx8PGswt8BNRsVKRsOzeP3FgoD8v8Emy4SdHdrzCcAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#907322",
+                                    "scrim_color": "#160B13",
+                                    "original_picture": "https://a0.muscache.com/pictures/96f579ba-6e5e-47a8-ab62-b1f5788b629b.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/96f579ba-6e5e-47a8-ab62-b1f5788b629b.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 638756786,
+                                    "dominant_saturated_color": "#130D09",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/3c248867-bac3-421c-85e2-958656421563.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/3c248867-bac3-421c-85e2-958656421563.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AXJoYzg3NBMI/dfd4ejz8wHBv8Lj4tHv9uoXCBbc2dkByMzV1c6/3ufeGAwR8ezqld0dM/od+voAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#130D09",
+                                    "scrim_color": "#120D09",
+                                    "original_picture": "https://a0.muscache.com/pictures/3c248867-bac3-421c-85e2-958656421563.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/3c248867-bac3-421c-85e2-958656421563.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 638756792,
+                                    "dominant_saturated_color": "#DBE4E9",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/a647ab02-1305-42e0-80a5-52227d653dd2.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/a647ab02-1305-42e0-80a5-52227d653dd2.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AZOJewL/ABUUFdzl7MXGxgHCurG/zMAJCBAWFSnh1ccBubCl2eff9ff/NDRK2sSrP5YZ1WK/3UIAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#537687",
+                                    "scrim_color": "#1B1B13",
+                                    "original_picture": "https://a0.muscache.com/pictures/a647ab02-1305-42e0-80a5-52227d653dd2.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/a647ab02-1305-42e0-80a5-52227d653dd2.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 638756796,
+                                    "dominant_saturated_color": "#F9F5E9",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/fb44e865-c890-4a56-93ab-ea7503cbd980.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/fb44e865-c890-4a56-93ab-ea7503cbd980.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AWFMRCkvIyEhIL/Bxfvw6gFvWFAaGQgPEA3p6u7X3OMBWU9L0M/PLiId0+HqBggN0KAUSLBqizEAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#836A27",
+                                    "scrim_color": "#0C0807",
+                                    "original_picture": "https://a0.muscache.com/pictures/fb44e865-c890-4a56-93ab-ea7503cbd980.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/fb44e865-c890-4a56-93ab-ea7503cbd980.jpg?aki_policy=x_large"
+                                }
+                            ],
+                            "point_of_interest_id": 126,
+                            "sub_text_color": "#907322"
+                        },
+                        {
+                            "banner_picture": {
+                                "id": 625732487,
+                                "dominant_saturated_color": "#543614",
+                                "large_ro": "https://a0.muscache.com/im/pictures/a77e36c0-9074-48f0-8e6d-0dec9c99804a.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/a77e36c0-9074-48f0-8e6d-0dec9c99804a.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AU8zEygpLxggKd7f3+Xo9QFaOhUqLTYeJCrV29Xt6eoBWjsYMjI3Cxco6/T92NXYt6kUshKzjfUAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#543614",
+                                "scrim_color": "#120E0D",
+                                "original_picture": "https://a0.muscache.com/pictures/a77e36c0-9074-48f0-8e6d-0dec9c99804a.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/a77e36c0-9074-48f0-8e6d-0dec9c99804a.jpg?aki_policy=x_large"
+                            },
+                            "picture": {
+                                "id": 625732487,
+                                "dominant_saturated_color": "#543614",
+                                "large_ro": "https://a0.muscache.com/im/pictures/a77e36c0-9074-48f0-8e6d-0dec9c99804a.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/a77e36c0-9074-48f0-8e6d-0dec9c99804a.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AU8zEygpLxggKd7f3+Xo9QFaOhUqLTYeJCrV29Xt6eoBWjsYMjI3Cxco6/T92NXYt6kUshKzjfUAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#543614",
+                                "scrim_color": "#120E0D",
+                                "original_picture": "https://a0.muscache.com/pictures/a77e36c0-9074-48f0-8e6d-0dec9c99804a.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/a77e36c0-9074-48f0-8e6d-0dec9c99804a.jpg?aki_policy=x_large"
+                            },
+                            "description": "About \u20b92,075 per person",
+                            "query_param": {},
+                            "sub_text": "New American",
+                            "title": "Mayfield",
+                            "id": 1772,
+                            "lat": 40.67493,
+                            "lng": -73.9566937,
+                            "item_type": "guidebook_activity",
+                            "size": "medium",
+                            "pictures": [
+                                {
+                                    "id": 625732487,
+                                    "dominant_saturated_color": "#543614",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/a77e36c0-9074-48f0-8e6d-0dec9c99804a.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/a77e36c0-9074-48f0-8e6d-0dec9c99804a.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AU8zEygpLxggKd7f3+Xo9QFaOhUqLTYeJCrV29Xt6eoBWjsYMjI3Cxco6/T92NXYt6kUshKzjfUAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#543614",
+                                    "scrim_color": "#120E0D",
+                                    "original_picture": "https://a0.muscache.com/pictures/a77e36c0-9074-48f0-8e6d-0dec9c99804a.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/a77e36c0-9074-48f0-8e6d-0dec9c99804a.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 625732494,
+                                    "dominant_saturated_color": "#8E5F2A",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/843ecf04-b336-4ab1-91f0-365e9aac3a4a.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/843ecf04-b336-4ab1-91f0-365e9aac3a4a.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//ASMfHkAyHxkOA8PX+O7q5QHLztHs0pe1rcIGCyMTJkABnJad6O/jGSgwzMraLTE9/JwWAyXC0cgAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#8E5F2A",
+                                    "scrim_color": "#1A100F",
+                                    "original_picture": "https://a0.muscache.com/pictures/843ecf04-b336-4ab1-91f0-365e9aac3a4a.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/843ecf04-b336-4ab1-91f0-365e9aac3a4a.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 625732506,
+                                    "dominant_saturated_color": "#C7472D",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/d93fd1a8-0128-4250-ab20-c0329a7e424b.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/d93fd1a8-0128-4250-ab20-c0329a7e424b.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AeLNqP349/Lq4/T3++/x9AHNuJrHrbYEMDoa9ezxBgcBzbmd6+vvDhog6dTQ5ufeNHAf2BGl/4cAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#C7472D",
+                                    "scrim_color": "#39241F",
+                                    "original_picture": "https://a0.muscache.com/pictures/d93fd1a8-0128-4250-ab20-c0329a7e424b.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/d93fd1a8-0128-4250-ab20-c0329a7e424b.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 625732511,
+                                    "dominant_saturated_color": "#170B07",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/9ed29754-a0af-4726-ab8d-dcbbefdcbefa.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/9ed29754-a0af-4726-ab8d-dcbbefdcbefa.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AWheWywuMf3//Q4PDtPPxwFqX1fr6OgZGRYgJirV0s4BX1ZRLDEx4tvY5OTl7vL2/vEX8RigKWMAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#170B07",
+                                    "scrim_color": "#160B07",
+                                    "original_picture": "https://a0.muscache.com/pictures/9ed29754-a0af-4726-ab8d-dcbbefdcbefa.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/9ed29754-a0af-4726-ab8d-dcbbefdcbefa.jpg?aki_policy=x_large"
+                                }
+                            ],
+                            "point_of_interest_id": 1005,
+                            "sub_text_color": "#543614"
+                        },
+                        {
+                            "banner_picture": {
+                                "id": 625735159,
+                                "dominant_saturated_color": "#FCE496",
+                                "large_ro": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AUsiCGlIEhIG+JWz87nmAQGdTQ5CTi35BBOZj7jQ7P8BSR8GFAoBGRAF5+/75vT/q8kT7AYdF3cAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#8A6B04",
+                                "scrim_color": "#180906",
+                                "original_picture": "https://a0.muscache.com/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=x_large"
+                            },
+                            "picture": {
+                                "id": 625735159,
+                                "dominant_saturated_color": "#FCE496",
+                                "large_ro": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AUsiCGlIEhIG+JWz87nmAQGdTQ5CTi35BBOZj7jQ7P8BSR8GFAoBGRAF5+/75vT/q8kT7AYdF3cAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#8A6B04",
+                                "scrim_color": "#180906",
+                                "original_picture": "https://a0.muscache.com/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=x_large"
+                            },
+                            "description": "About \u20b93,721 per person",
+                            "query_param": {},
+                            "sub_text": "Italian Pizzeria",
+                            "title": "Speedy Romeo - Brooklyn",
+                            "id": 1011,
+                            "lat": 40.6875171,
+                            "lng": -73.9600013,
+                            "item_type": "guidebook_activity",
+                            "size": "medium",
+                            "pictures": [
+                                {
+                                    "id": 625735159,
+                                    "dominant_saturated_color": "#FCE496",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AUsiCGlIEhIG+JWz87nmAQGdTQ5CTi35BBOZj7jQ7P8BSR8GFAoBGRAF5+/75vT/q8kT7AYdF3cAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#8A6B04",
+                                    "scrim_color": "#180906",
+                                    "original_picture": "https://a0.muscache.com/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=x_large"
+                                }
+                            ],
+                            "point_of_interest_id": 233,
+                            "sub_text_color": "#8A6B04"
+                        },
+                        {
+                            "banner_picture": {
+                                "id": 625738659,
+                                "dominant_saturated_color": "#784620",
+                                "large_ro": "https://a0.muscache.com/im/pictures/59f399ac-6199-4b5c-b61d-b9473fc5394c.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/59f399ac-6199-4b5c-b61d-b9473fc5394c.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AczDuv778tDGuwsKDRIUEQHMvK3u6eS/t7MRDgsMBwcByrGe18q+7foG3+Ll4+PjcDUa84j1nuAAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#784620",
+                                "scrim_color": "#43291A",
+                                "original_picture": "https://a0.muscache.com/pictures/59f399ac-6199-4b5c-b61d-b9473fc5394c.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/59f399ac-6199-4b5c-b61d-b9473fc5394c.jpg?aki_policy=x_large"
+                            },
+                            "picture": {
+                                "id": 625738659,
+                                "dominant_saturated_color": "#784620",
+                                "large_ro": "https://a0.muscache.com/im/pictures/59f399ac-6199-4b5c-b61d-b9473fc5394c.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/59f399ac-6199-4b5c-b61d-b9473fc5394c.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AczDuv778tDGuwsKDRIUEQHMvK3u6eS/t7MRDgsMBwcByrGe18q+7foG3+Ll4+PjcDUa84j1nuAAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#784620",
+                                "scrim_color": "#43291A",
+                                "original_picture": "https://a0.muscache.com/pictures/59f399ac-6199-4b5c-b61d-b9473fc5394c.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/59f399ac-6199-4b5c-b61d-b9473fc5394c.jpg?aki_policy=x_large"
+                            },
+                            "description": "About \u20b93,435 per person",
+                            "query_param": {},
+                            "sub_text": "Fine American",
+                            "title": "Otway",
+                            "id": 1087,
+                            "lat": 40.6826628,
+                            "lng": -73.9637644,
+                            "item_type": "guidebook_activity",
+                            "size": "medium",
+                            "pictures": [
+                                {
+                                    "id": 625738659,
+                                    "dominant_saturated_color": "#784620",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/59f399ac-6199-4b5c-b61d-b9473fc5394c.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/59f399ac-6199-4b5c-b61d-b9473fc5394c.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AczDuv778tDGuwsKDRIUEQHMvK3u6eS/t7MRDgsMBwcByrGe18q+7foG3+Ll4+PjcDUa84j1nuAAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#784620",
+                                    "scrim_color": "#43291A",
+                                    "original_picture": "https://a0.muscache.com/pictures/59f399ac-6199-4b5c-b61d-b9473fc5394c.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/59f399ac-6199-4b5c-b61d-b9473fc5394c.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 625738663,
+                                    "dominant_saturated_color": "#9C5E28",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/15161ded-4edb-4ff7-8413-3cf3735ebd4d.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/15161ded-4edb-4ff7-8413-3cf3735ebd4d.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AdTV1vjz8ufbzgcUHwICBAHJy8z/6NvYzsTq+wYoMz4B2dra9PPy69nNBxUg3NjYvCUdAZ8QoN0AAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#9C5E28",
+                                    "scrim_color": "#5B311B",
+                                    "original_picture": "https://a0.muscache.com/pictures/15161ded-4edb-4ff7-8413-3cf3735ebd4d.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/15161ded-4edb-4ff7-8413-3cf3735ebd4d.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 625738667,
+                                    "dominant_saturated_color": "#7B4F2D",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/4faee723-35b4-4671-86f0-34839f03d270.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/4faee723-35b4-4671-86f0-34839f03d270.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Adrc3PPy8s26pyExQ/b08gHh4uT39/Xc2tj49/kEAQABv7+9/v3++/v7+/j49vT0Qxgj/3GHZ/4AAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#7B4F2D",
+                                    "scrim_color": "#58463A",
+                                    "original_picture": "https://a0.muscache.com/pictures/4faee723-35b4-4671-86f0-34839f03d270.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/4faee723-35b4-4671-86f0-34839f03d270.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 625738678,
+                                    "dominant_saturated_color": "#6A7B17",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/ef9b9f31-c3be-4b57-8e52-c91eb8ed3830.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/ef9b9f31-c3be-4b57-8e52-c91eb8ed3830.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AdLKwwcWIvTt5Pr17wEBAwHY3eEBBQf74sjXwb0XMT4BzcjGDBsk/+nUxdayJCFMYYwYrSjwa1cAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#6A7B17",
+                                    "scrim_color": "#511B0F",
+                                    "original_picture": "https://a0.muscache.com/pictures/ef9b9f31-c3be-4b57-8e52-c91eb8ed3830.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/ef9b9f31-c3be-4b57-8e52-c91eb8ed3830.jpg?aki_policy=x_large"
+                                }
+                            ],
+                            "point_of_interest_id": 328,
+                            "sub_text_color": "#784620"
+                        },
+                        {
+                            "banner_picture": {
+                                "id": 625738456,
+                                "dominant_saturated_color": "#F6EFE0",
+                                "large_ro": "https://a0.muscache.com/im/pictures/684d38cc-2514-4de9-9b75-42a3cc2d6e3d.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/684d38cc-2514-4de9-9b75-42a3cc2d6e3d.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWM01LFiZWbm4xXR1je/fO0MY5CDrZejJguX8PsXz5fsPM9opK0tKcLP9J+Bh5vr/M27ADQpDtRf6DHwAAAAAElFTkSuQmCC",
+                                "saturated_a11y_dark_color": "#8E6D2A",
+                                "scrim_color": "#201D26",
+                                "original_picture": "https://a0.muscache.com/pictures/684d38cc-2514-4de9-9b75-42a3cc2d6e3d.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/684d38cc-2514-4de9-9b75-42a3cc2d6e3d.jpg?aki_policy=x_large"
+                            },
+                            "picture": {
+                                "id": 625738456,
+                                "dominant_saturated_color": "#F6EFE0",
+                                "large_ro": "https://a0.muscache.com/im/pictures/684d38cc-2514-4de9-9b75-42a3cc2d6e3d.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/684d38cc-2514-4de9-9b75-42a3cc2d6e3d.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWM01LFiZWbm4xXR1je/fO0MY5CDrZejJguX8PsXz5fsPM9opK0tKcLP9J+Bh5vr/M27ADQpDtRf6DHwAAAAAElFTkSuQmCC",
+                                "saturated_a11y_dark_color": "#8E6D2A",
+                                "scrim_color": "#201D26",
+                                "original_picture": "https://a0.muscache.com/pictures/684d38cc-2514-4de9-9b75-42a3cc2d6e3d.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/684d38cc-2514-4de9-9b75-42a3cc2d6e3d.jpg?aki_policy=x_large"
+                            },
+                            "description": "About \u20b94,150 per person",
+                            "query_param": {},
+                            "sub_text": "Fine American",
+                            "title": "The Finch",
+                            "id": 1024,
+                            "lat": 40.6868227,
+                            "lng": -73.9628757,
+                            "item_type": "guidebook_activity",
+                            "size": "medium",
+                            "pictures": [
+                                {
+                                    "id": 625738456,
+                                    "dominant_saturated_color": "#F6EFE0",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/684d38cc-2514-4de9-9b75-42a3cc2d6e3d.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/684d38cc-2514-4de9-9b75-42a3cc2d6e3d.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWM01LFiZWbm4xXR1je/fO0MY5CDrZejJguX8PsXz5fsPM9opK0tKcLP9J+Bh5vr/M27ADQpDtRf6DHwAAAAAElFTkSuQmCC",
+                                    "saturated_a11y_dark_color": "#8E6D2A",
+                                    "scrim_color": "#201D26",
+                                    "original_picture": "https://a0.muscache.com/pictures/684d38cc-2514-4de9-9b75-42a3cc2d6e3d.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/684d38cc-2514-4de9-9b75-42a3cc2d6e3d.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 625738469,
+                                    "dominant_saturated_color": "#E6CF74",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/300db24d-7390-4e0a-8b10-55f6bb652e79.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/300db24d-7390-4e0a-8b10-55f6bb652e79.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AXB2gSkqKAoIBe7u77WztAGpp6bm2NcGBPImMC4kM08BtrvBFg3hBwEUyL7NQFZf7U4UL8fMZ+UAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#8B7419",
+                                    "scrim_color": "#06060E",
+                                    "original_picture": "https://a0.muscache.com/pictures/300db24d-7390-4e0a-8b10-55f6bb652e79.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/300db24d-7390-4e0a-8b10-55f6bb652e79.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 625738482,
+                                    "dominant_saturated_color": "#F6A336",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/30a671d4-92dc-4535-b96d-3243b5901a97.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/30a671d4-92dc-4535-b96d-3243b5901a97.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AY1xSTY3T+bk0OLf2MzN2QGrf0UeQGz327YC8N3g3eQBRDcleXBkDeu93NXX3vADfc8a2JDhpmoAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#A25F08",
+                                    "scrim_color": "#100B07",
+                                    "original_picture": "https://a0.muscache.com/pictures/30a671d4-92dc-4535-b96d-3243b5901a97.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/30a671d4-92dc-4535-b96d-3243b5901a97.jpg?aki_policy=x_large"
+                                }
+                            ],
+                            "point_of_interest_id": 246,
+                            "sub_text_color": "#8E6D2A"
+                        },
+                        {
+                            "banner_picture": {
+                                "id": 625734756,
+                                "dominant_saturated_color": "#E3EDEF",
+                                "large_ro": "https://a0.muscache.com/im/pictures/400e27f8-9ce7-413f-83f3-8a91a7bed02a.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/400e27f8-9ce7-413f-83f3-8a91a7bed02a.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AVRUVBISEQYGBfv7/PLy8gFmZmQdHRv39vgHCAfc294BTk5OFhYVBQUF+vr79/f2zbgVMCEL2dEAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#487A86",
+                                "scrim_color": "#4E4E4E",
+                                "original_picture": "https://a0.muscache.com/pictures/400e27f8-9ce7-413f-83f3-8a91a7bed02a.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/400e27f8-9ce7-413f-83f3-8a91a7bed02a.jpg?aki_policy=x_large"
+                            },
+                            "picture": {
+                                "id": 625734756,
+                                "dominant_saturated_color": "#E3EDEF",
+                                "large_ro": "https://a0.muscache.com/im/pictures/400e27f8-9ce7-413f-83f3-8a91a7bed02a.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/400e27f8-9ce7-413f-83f3-8a91a7bed02a.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AVRUVBISEQYGBfv7/PLy8gFmZmQdHRv39vgHCAfc294BTk5OFhYVBQUF+vr79/f2zbgVMCEL2dEAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#487A86",
+                                "scrim_color": "#4E4E4E",
+                                "original_picture": "https://a0.muscache.com/pictures/400e27f8-9ce7-413f-83f3-8a91a7bed02a.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/400e27f8-9ce7-413f-83f3-8a91a7bed02a.jpg?aki_policy=x_large"
+                            },
+                            "description": "About \u20b92,576 per person",
+                            "query_param": {},
+                            "sub_text": "Italian Pizzeria",
+                            "title": "Emily BK",
+                            "id": 1052,
+                            "lat": 40.6835694,
+                            "lng": -73.9664327,
+                            "item_type": "guidebook_activity",
+                            "size": "medium",
+                            "pictures": [
+                                {
+                                    "id": 625734756,
+                                    "dominant_saturated_color": "#E3EDEF",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/400e27f8-9ce7-413f-83f3-8a91a7bed02a.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/400e27f8-9ce7-413f-83f3-8a91a7bed02a.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AVRUVBISEQYGBfv7/PLy8gFmZmQdHRv39vgHCAfc294BTk5OFhYVBQUF+vr79/f2zbgVMCEL2dEAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#487A86",
+                                    "scrim_color": "#4E4E4E",
+                                    "original_picture": "https://a0.muscache.com/pictures/400e27f8-9ce7-413f-83f3-8a91a7bed02a.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/400e27f8-9ce7-413f-83f3-8a91a7bed02a.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 625734761,
+                                    "dominant_saturated_color": "#684B20",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/818cd310-afdd-4571-9102-ff5d02c063bb.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/818cd310-afdd-4571-9102-ff5d02c063bb.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AYZoNBoZKAcYKQYE/Ovl5QGbeUoTIDcDAfQEBQ78/PgBr6qt69m5Cg8FAwYPAPwCjQsRAjOIbdoAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#684B20",
+                                    "scrim_color": "#372413",
+                                    "original_picture": "https://a0.muscache.com/pictures/818cd310-afdd-4571-9102-ff5d02c063bb.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/818cd310-afdd-4571-9102-ff5d02c063bb.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 625734767,
+                                    "dominant_saturated_color": "#E7B781",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/dec2cad4-202e-4cc1-8a48-4860b1d995e2.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/dec2cad4-202e-4cc1-8a48-4860b1d995e2.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWO0URBOcjNjExJ7JWHLKyjG2BZk4GLv+PL20Q13v6gb2jHun5DO+fnd62d3hPVNjdx8AWw6Eefy416xAAAAAElFTkSuQmCC",
+                                    "saturated_a11y_dark_color": "#965D1C",
+                                    "scrim_color": "#1E110B",
+                                    "original_picture": "https://a0.muscache.com/pictures/dec2cad4-202e-4cc1-8a48-4860b1d995e2.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/dec2cad4-202e-4cc1-8a48-4860b1d995e2.jpg?aki_policy=x_large"
+                                }
+                            ],
+                            "point_of_interest_id": 280,
+                            "sub_text_color": "#487A86"
+                        },
+                        {
+                            "banner_picture": {
+                                "id": 625742505,
+                                "dominant_saturated_color": "#281408",
+                                "large_ro": "https://a0.muscache.com/im/pictures/efa43ab2-6322-44f3-b553-9cd80e03bcc1.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/efa43ab2-6322-44f3-b553-9cd80e03bcc1.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AYpmNvAGEfr4+AcBCP317QF/alAG/vgB/P36BQzi5uoBMyMSLSQmBQb9AhUJ7+TyIxIVwvhfY54AAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#281408",
+                                "scrim_color": "#271308",
+                                "original_picture": "https://a0.muscache.com/pictures/efa43ab2-6322-44f3-b553-9cd80e03bcc1.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/efa43ab2-6322-44f3-b553-9cd80e03bcc1.jpg?aki_policy=x_large"
+                            },
+                            "picture": {
+                                "id": 625742505,
+                                "dominant_saturated_color": "#281408",
+                                "large_ro": "https://a0.muscache.com/im/pictures/efa43ab2-6322-44f3-b553-9cd80e03bcc1.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/efa43ab2-6322-44f3-b553-9cd80e03bcc1.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AYpmNvAGEfr4+AcBCP317QF/alAG/vgB/P36BQzi5uoBMyMSLSQmBQb9AhUJ7+TyIxIVwvhfY54AAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#281408",
+                                "scrim_color": "#271308",
+                                "original_picture": "https://a0.muscache.com/pictures/efa43ab2-6322-44f3-b553-9cd80e03bcc1.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/efa43ab2-6322-44f3-b553-9cd80e03bcc1.jpg?aki_policy=x_large"
+                            },
+                            "description": "About \u20b93,649 per person",
+                            "query_param": {},
+                            "sub_text": "Modern Mexican",
+                            "title": "Alta Calidad",
+                            "id": 1044,
+                            "lat": 40.6801337,
+                            "lng": -73.9682324,
+                            "item_type": "guidebook_activity",
+                            "size": "medium",
+                            "pictures": [
+                                {
+                                    "id": 625742505,
+                                    "dominant_saturated_color": "#281408",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/efa43ab2-6322-44f3-b553-9cd80e03bcc1.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/efa43ab2-6322-44f3-b553-9cd80e03bcc1.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AYpmNvAGEfr4+AcBCP317QF/alAG/vgB/P36BQzi5uoBMyMSLSQmBQb9AhUJ7+TyIxIVwvhfY54AAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#281408",
+                                    "scrim_color": "#271308",
+                                    "original_picture": "https://a0.muscache.com/pictures/efa43ab2-6322-44f3-b553-9cd80e03bcc1.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/efa43ab2-6322-44f3-b553-9cd80e03bcc1.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 625742514,
+                                    "dominant_saturated_color": "#663124",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/0fc44684-d3a3-479e-950e-f9d46d5fc451.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/0fc44684-d3a3-479e-950e-f9d46d5fc451.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//Aaemqu7c0Ovi4CAtJPMCGAGgqrAJ4bjl4/EHCQgVPFIBUlpiLSELExYQ7/oJBAULP1YTds+azI8AAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#663124",
+                                    "scrim_color": "#322020",
+                                    "original_picture": "https://a0.muscache.com/pictures/0fc44684-d3a3-479e-950e-f9d46d5fc451.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/0fc44684-d3a3-479e-950e-f9d46d5fc451.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 625742522,
+                                    "dominant_saturated_color": "#BEA17A",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/2cbaa1d8-c486-4144-8b6f-70bb717ccfc6.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/2cbaa1d8-c486-4144-8b6f-70bb717ccfc6.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AcnGxNTY2vfr4D0zJPHq4gG6u7DL0L4aDxoYAO3n4+ABsrKyw8C04dbVDQX9CAkJ0mcbYhtV2qYAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#8C6D44",
+                                    "scrim_color": "#372D24",
+                                    "original_picture": "https://a0.muscache.com/pictures/2cbaa1d8-c486-4144-8b6f-70bb717ccfc6.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/2cbaa1d8-c486-4144-8b6f-70bb717ccfc6.jpg?aki_policy=x_large"
+                                }
+                            ],
+                            "point_of_interest_id": 271,
+                            "sub_text_color": "#281408"
+                        },
+                        {
+                            "banner_picture": {
+                                "id": 638754492,
+                                "dominant_saturated_color": "#503A14",
+                                "large_ro": "https://a0.muscache.com/im/pictures/b6f3997b-edae-4749-8388-f6591454e6fc.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/b6f3997b-edae-4749-8388-f6591454e6fc.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AYCAdsLCzh8dGRgE7eLk4gGKhkm8uOk7LCXx6dv2A/wBZFMoU2OGvKKT4ezgKi03PlcYBUxuUogAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#503A14",
+                                "scrim_color": "#1F160D",
+                                "original_picture": "https://a0.muscache.com/pictures/b6f3997b-edae-4749-8388-f6591454e6fc.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/b6f3997b-edae-4749-8388-f6591454e6fc.jpg?aki_policy=x_large"
+                            },
+                            "picture": {
+                                "id": 638754492,
+                                "dominant_saturated_color": "#503A14",
+                                "large_ro": "https://a0.muscache.com/im/pictures/b6f3997b-edae-4749-8388-f6591454e6fc.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/b6f3997b-edae-4749-8388-f6591454e6fc.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AYCAdsLCzh8dGRgE7eLk4gGKhkm8uOk7LCXx6dv2A/wBZFMoU2OGvKKT4ezgKi03PlcYBUxuUogAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#503A14",
+                                "scrim_color": "#1F160D",
+                                "original_picture": "https://a0.muscache.com/pictures/b6f3997b-edae-4749-8388-f6591454e6fc.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/b6f3997b-edae-4749-8388-f6591454e6fc.jpg?aki_policy=x_large"
+                            },
+                            "description": "About \u20b93,148 per person",
+                            "query_param": {},
+                            "sub_text": "American",
+                            "title": "The Vanderbilt",
+                            "id": 11633,
+                            "lat": 40.6795994,
+                            "lng": -73.9684431,
+                            "item_type": "guidebook_activity",
+                            "size": "medium",
+                            "pictures": [
+                                {
+                                    "id": 638754492,
+                                    "dominant_saturated_color": "#503A14",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/b6f3997b-edae-4749-8388-f6591454e6fc.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/b6f3997b-edae-4749-8388-f6591454e6fc.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AYCAdsLCzh8dGRgE7eLk4gGKhkm8uOk7LCXx6dv2A/wBZFMoU2OGvKKT4ezgKi03PlcYBUxuUogAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#503A14",
+                                    "scrim_color": "#1F160D",
+                                    "original_picture": "https://a0.muscache.com/pictures/b6f3997b-edae-4749-8388-f6591454e6fc.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/b6f3997b-edae-4749-8388-f6591454e6fc.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 638754498,
+                                    "dominant_saturated_color": "#853811",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/ac3467d2-00d2-4648-b2c0-0d9c7841629b.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/ac3467d2-00d2-4648-b2c0-0d9c7841629b.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AayFWgH6CMjc8sze5srOygGZdFQd/+jQ5wCt0e376OEBflMy/wADFBoY5vDmCPEFpHgaasO9FUgAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#853811",
+                                    "scrim_color": "#110907",
+                                    "original_picture": "https://a0.muscache.com/pictures/ac3467d2-00d2-4648-b2c0-0d9c7841629b.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/ac3467d2-00d2-4648-b2c0-0d9c7841629b.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 638754504,
+                                    "dominant_saturated_color": "#5F3719",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/d57af090-0a78-4722-85b9-3e82c9570eb5.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/d57af090-0a78-4722-85b9-3e82c9570eb5.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAOUlEQVQIHWMUERbi4WBn5xZwsNd98OA1o4uejK2W+BcGbqbPr+WUVRnbKzLZvzz6I6T19PZlXUNdAC0CD73DFrx9AAAAAElFTkSuQmCC",
+                                    "saturated_a11y_dark_color": "#5F3719",
+                                    "scrim_color": "#17120F",
+                                    "original_picture": "https://a0.muscache.com/pictures/d57af090-0a78-4722-85b9-3e82c9570eb5.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/d57af090-0a78-4722-85b9-3e82c9570eb5.jpg?aki_policy=x_large"
+                                }
+                            ],
+                            "point_of_interest_id": 2948831,
+                            "sub_text_color": "#503A14"
+                        },
+                        {
+                            "banner_picture": {
+                                "id": 625739823,
+                                "dominant_saturated_color": "#BD9267",
+                                "large_ro": "https://a0.muscache.com/im/pictures/387ce08f-b81e-4d16-a521-b10595f30db2.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/387ce08f-b81e-4d16-a521-b10595f30db2.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AWJtWEFBO83StQwGIPT0+QFmUkMBB/wRDAbm5vH79fkBTD85KiMgCwoI/P392+Hh6UYV+ETaDB8AAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#956B41",
+                                "scrim_color": "#2A2017",
+                                "original_picture": "https://a0.muscache.com/pictures/387ce08f-b81e-4d16-a521-b10595f30db2.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/387ce08f-b81e-4d16-a521-b10595f30db2.jpg?aki_policy=x_large"
+                            },
+                            "picture": {
+                                "id": 625739823,
+                                "dominant_saturated_color": "#BD9267",
+                                "large_ro": "https://a0.muscache.com/im/pictures/387ce08f-b81e-4d16-a521-b10595f30db2.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/387ce08f-b81e-4d16-a521-b10595f30db2.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AWJtWEFBO83StQwGIPT0+QFmUkMBB/wRDAbm5vH79fkBTD85KiMgCwoI/P392+Hh6UYV+ETaDB8AAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#956B41",
+                                "scrim_color": "#2A2017",
+                                "original_picture": "https://a0.muscache.com/pictures/387ce08f-b81e-4d16-a521-b10595f30db2.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/387ce08f-b81e-4d16-a521-b10595f30db2.jpg?aki_policy=x_large"
+                            },
+                            "description": "About \u20b92,719 per person",
+                            "query_param": {},
+                            "sub_text": "Farm-to-table",
+                            "title": "Olmsted",
+                            "id": 909,
+                            "lat": 40.677064,
+                            "lng": -73.9687578,
+                            "item_type": "guidebook_activity",
+                            "size": "medium",
+                            "pictures": [
+                                {
+                                    "id": 625739823,
+                                    "dominant_saturated_color": "#BD9267",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/387ce08f-b81e-4d16-a521-b10595f30db2.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/387ce08f-b81e-4d16-a521-b10595f30db2.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AWJtWEFBO83StQwGIPT0+QFmUkMBB/wRDAbm5vH79fkBTD85KiMgCwoI/P392+Hh6UYV+ETaDB8AAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#956B41",
+                                    "scrim_color": "#2A2017",
+                                    "original_picture": "https://a0.muscache.com/pictures/387ce08f-b81e-4d16-a521-b10595f30db2.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/387ce08f-b81e-4d16-a521-b10595f30db2.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 625739833,
+                                    "dominant_saturated_color": "#C08958",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/55b642f0-951d-46d4-aa1d-e51b73f1eaa2.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/55b642f0-951d-46d4-aa1d-e51b73f1eaa2.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AY1tSTpKUgAACtTb3qKjqgG9ppDsBRD17PHPzcna19IBaVdL/gsUISMmq6ai7ezrKMYYmvSQDvQAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#926238",
+                                    "scrim_color": "#19110E",
+                                    "original_picture": "https://a0.muscache.com/pictures/55b642f0-951d-46d4-aa1d-e51b73f1eaa2.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/55b642f0-951d-46d4-aa1d-e51b73f1eaa2.jpg?aki_policy=x_large"
+                                },
+                                {
+                                    "id": 625739838,
+                                    "dominant_saturated_color": "#AA4206",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/c39cf428-190f-4de7-87b9-1c6529e0547f.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/c39cf428-190f-4de7-87b9-1c6529e0547f.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AT4zK44u6xAI8KjXCihiXgFZSkpoKPPy+OMbAfLEDEwBQkJKkkAO/Om48uoHxhc+zJQUcPH7O64AAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#AA4206",
+                                    "scrim_color": "#18171C",
+                                    "original_picture": "https://a0.muscache.com/pictures/c39cf428-190f-4de7-87b9-1c6529e0547f.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/c39cf428-190f-4de7-87b9-1c6529e0547f.jpg?aki_policy=x_large"
+                                }
+                            ],
+                            "point_of_interest_id": 262,
+                            "sub_text_color": "#956B41"
+                        },
+                        {
+                            "banner_picture": {
+                                "id": 625735927,
+                                "dominant_saturated_color": "#CC9A74",
+                                "large_ro": "https://a0.muscache.com/im/pictures/08ec1455-cf3a-4c07-a8a4-e28f974e1e2b.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/08ec1455-cf3a-4c07-a8a4-e28f974e1e2b.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AbWjl/7w6M/JxPj598fc6gG0q6bm5ubY0c7z9PPh5+0Bs6+q4d/e3+Dkzc3P8/f5gegl8ASLDEUAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#9E653A",
+                                "scrim_color": "#1C1817",
+                                "original_picture": "https://a0.muscache.com/pictures/08ec1455-cf3a-4c07-a8a4-e28f974e1e2b.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/08ec1455-cf3a-4c07-a8a4-e28f974e1e2b.jpg?aki_policy=x_large"
+                            },
+                            "picture": {
+                                "id": 625735927,
+                                "dominant_saturated_color": "#CC9A74",
+                                "large_ro": "https://a0.muscache.com/im/pictures/08ec1455-cf3a-4c07-a8a4-e28f974e1e2b.jpg?aki_policy=large_ro",
+                                "picture": "https://a0.muscache.com/im/pictures/08ec1455-cf3a-4c07-a8a4-e28f974e1e2b.jpg?aki_policy=large",
+                                "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AbWjl/7w6M/JxPj598fc6gG0q6bm5ubY0c7z9PPh5+0Bs6+q4d/e3+Dkzc3P8/f5gegl8ASLDEUAAAAASUVORK5CYII=",
+                                "saturated_a11y_dark_color": "#9E653A",
+                                "scrim_color": "#1C1817",
+                                "original_picture": "https://a0.muscache.com/pictures/08ec1455-cf3a-4c07-a8a4-e28f974e1e2b.jpg",
+                                "xl_picture": "https://a0.muscache.com/im/pictures/08ec1455-cf3a-4c07-a8a4-e28f974e1e2b.jpg?aki_policy=x_large"
+                            },
+                            "description": "About \u20b93,936 per person",
+                            "query_param": {},
+                            "sub_text": "New American",
+                            "title": "Faun",
+                            "id": 903,
+                            "lat": 40.6782769,
+                            "lng": -73.9689324,
+                            "item_type": "guidebook_activity",
+                            "size": "medium",
+                            "pictures": [
+                                {
+                                    "id": 625735927,
+                                    "dominant_saturated_color": "#CC9A74",
+                                    "large_ro": "https://a0.muscache.com/im/pictures/08ec1455-cf3a-4c07-a8a4-e28f974e1e2b.jpg?aki_policy=large_ro",
+                                    "picture": "https://a0.muscache.com/im/pictures/08ec1455-cf3a-4c07-a8a4-e28f974e1e2b.jpg?aki_policy=large",
+                                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AbWjl/7w6M/JxPj598fc6gG0q6bm5ubY0c7z9PPh5+0Bs6+q4d/e3+Dkzc3P8/f5gegl8ASLDEUAAAAASUVORK5CYII=",
+                                    "saturated_a11y_dark_color": "#9E653A",
+                                    "scrim_color": "#1C1817",
+                                    "original_picture": "https://a0.muscache.com/pictures/08ec1455-cf3a-4c07-a8a4-e28f974e1e2b.jpg",
+                                    "xl_picture": "https://a0.muscache.com/im/pictures/08ec1455-cf3a-4c07-a8a4-e28f974e1e2b.jpg?aki_policy=x_large"
+                                }
+                            ],
+                            "point_of_interest_id": 101,
+                            "sub_text_color": "#9E653A"
+                        }
+                    ],
+                    "review_items": [],
+                    "breadcrumbs": [],
+                    "section_metadata": {},
+                    "nearby_locations": []
+                }
+            ],
+            "experiments_metadata": [],
+            "restaurant_tab_metadata": {
+                "has_map": true,
+                "point_of_interests": [],
+                "filters": {
+                    "sections": [
+                        {
+                            "items": [
+                                {
+                                    "selected": false,
+                                    "type": "checkbox",
+                                    "title": "Breakfast",
+                                    "params": [
+                                        {
+                                            "key": "restaurant_service_types",
+                                            "value": 5,
+                                            "delete": false,
+                                            "invisible_to_user": false,
+                                            "value_type": "array"
+                                        }
+                                    ],
+                                    "sub_type": "RESTAURANT_SERVICE_TYPE",
+                                    "states": []
+                                },
+                                {
+                                    "selected": false,
+                                    "type": "checkbox",
+                                    "title": "Brunch",
+                                    "params": [
+                                        {
+                                            "key": "restaurant_service_types",
+                                            "value": 1,
+                                            "delete": false,
+                                            "invisible_to_user": false,
+                                            "value_type": "array"
+                                        }
+                                    ],
+                                    "sub_type": "RESTAURANT_SERVICE_TYPE",
+                                    "states": []
+                                },
+                                {
+                                    "selected": false,
+                                    "type": "checkbox",
+                                    "title": "Lunch",
+                                    "params": [
+                                        {
+                                            "key": "restaurant_service_types",
+                                            "value": 3,
+                                            "delete": false,
+                                            "invisible_to_user": false,
+                                            "value_type": "array"
+                                        }
+                                    ],
+                                    "sub_type": "RESTAURANT_SERVICE_TYPE",
+                                    "states": []
+                                },
+                                {
+                                    "selected": false,
+                                    "type": "checkbox",
+                                    "title": "Dinner",
+                                    "params": [
+                                        {
+                                            "key": "restaurant_service_types",
+                                            "value": 2,
+                                            "delete": false,
+                                            "invisible_to_user": false,
+                                            "value_type": "array"
+                                        }
+                                    ],
+                                    "sub_type": "RESTAURANT_SERVICE_TYPE",
+                                    "states": []
+                                }
+                            ],
+                            "selected": false,
+                            "title": "Time of day",
+                            "filter_bar_title": "Time of day",
+                            "filter_section_id": "restaurant_service_types",
+                            "bar_items": [],
+                            "subsections": [],
+                            "experiments_metadata": [],
+                            "collapse_subtitle": "Breakfast, Brunch, Lunch, +1 more",
+                            "collapse_selected_subtitles": []
+                        },
+                        {
+                            "items": [
+                                {
+                                    "selected": false,
+                                    "type": "checkbox",
+                                    "title": "American",
+                                    "params": [
+                                        {
+                                            "key": "restaurant_cuisine_types",
+                                            "value": "American",
+                                            "delete": false,
+                                            "invisible_to_user": false,
+                                            "value_type": "array"
+                                        }
+                                    ],
+                                    "sub_type": "RESTAURANT_CUISINE_TYPE",
+                                    "states": []
+                                },
+                                {
+                                    "selected": false,
+                                    "type": "checkbox",
+                                    "title": "Italian",
+                                    "params": [
+                                        {
+                                            "key": "restaurant_cuisine_types",
+                                            "value": "Italian",
+                                            "delete": false,
+                                            "invisible_to_user": false,
+                                            "value_type": "array"
+                                        }
+                                    ],
+                                    "sub_type": "RESTAURANT_CUISINE_TYPE",
+                                    "states": []
+                                },
+                                {
+                                    "selected": false,
+                                    "type": "checkbox",
+                                    "title": "New American",
+                                    "params": [
+                                        {
+                                            "key": "restaurant_cuisine_types",
+                                            "value": "New American",
+                                            "delete": false,
+                                            "invisible_to_user": false,
+                                            "value_type": "array"
+                                        }
+                                    ],
+                                    "sub_type": "RESTAURANT_CUISINE_TYPE",
+                                    "states": []
+                                },
+                                {
+                                    "selected": false,
+                                    "type": "checkbox",
+                                    "title": "Seafood",
+                                    "params": [
+                                        {
+                                            "key": "restaurant_cuisine_types",
+                                            "value": "Seafood",
+                                            "delete": false,
+                                            "invisible_to_user": false,
+                                            "value_type": "array"
+                                        }
+                                    ],
+                                    "sub_type": "RESTAURANT_CUISINE_TYPE",
+                                    "states": []
+                                },
+                                {
+                                    "selected": false,
+                                    "type": "checkbox",
+                                    "title": "Mexican",
+                                    "params": [
+                                        {
+                                            "key": "restaurant_cuisine_types",
+                                            "value": "Mexican",
+                                            "delete": false,
+                                            "invisible_to_user": false,
+                                            "value_type": "array"
+                                        }
+                                    ],
+                                    "sub_type": "RESTAURANT_CUISINE_TYPE",
+                                    "states": []
+                                },
+                                {
+                                    "selected": false,
+                                    "type": "checkbox",
+                                    "title": "Japanese",
+                                    "params": [
+                                        {
+                                            "key": "restaurant_cuisine_types",
+                                            "value": "Japanese",
+                                            "delete": false,
+                                            "invisible_to_user": false,
+                                            "value_type": "array"
+                                        }
+                                    ],
+                                    "sub_type": "RESTAURANT_CUISINE_TYPE",
+                                    "states": []
+                                },
+                                {
+                                    "selected": false,
+                                    "type": "checkbox",
+                                    "title": "French",
+                                    "params": [
+                                        {
+                                            "key": "restaurant_cuisine_types",
+                                            "value": "French",
+                                            "delete": false,
+                                            "invisible_to_user": false,
+                                            "value_type": "array"
+                                        }
+                                    ],
+                                    "sub_type": "RESTAURANT_CUISINE_TYPE",
+                                    "states": []
+                                },
+                                {
+                                    "selected": false,
+                                    "type": "checkbox",
+                                    "title": "Mediterranean",
+                                    "params": [
+                                        {
+                                            "key": "restaurant_cuisine_types",
+                                            "value": "Mediterranean",
+                                            "delete": false,
+                                            "invisible_to_user": false,
+                                            "value_type": "array"
+                                        }
+                                    ],
+                                    "sub_type": "RESTAURANT_CUISINE_TYPE",
+                                    "states": []
+                                },
+                                {
+                                    "selected": false,
+                                    "type": "checkbox",
+                                    "title": "Indian",
+                                    "params": [
+                                        {
+                                            "key": "restaurant_cuisine_types",
+                                            "value": "Indian",
+                                            "delete": false,
+                                            "invisible_to_user": false,
+                                            "value_type": "array"
+                                        }
+                                    ],
+                                    "sub_type": "RESTAURANT_CUISINE_TYPE",
+                                    "states": []
+                                },
+                                {
+                                    "selected": false,
+                                    "type": "checkbox",
+                                    "title": "Pizza",
+                                    "params": [
+                                        {
+                                            "key": "restaurant_cuisine_types",
+                                            "value": "Pizza",
+                                            "delete": false,
+                                            "invisible_to_user": false,
+                                            "value_type": "array"
+                                        }
+                                    ],
+                                    "sub_type": "RESTAURANT_CUISINE_TYPE",
+                                    "states": []
+                                }
+                            ],
+                            "selected": false,
+                            "title": "Cuisines",
+                            "filter_bar_title": "Cuisines",
+                            "filter_section_id": "restaurant_cuisine_types",
+                            "bar_items": [],
+                            "subsections": [],
+                            "experiments_metadata": [],
+                            "collapse_subtitle": "American, Italian, +8 more",
+                            "collapse_selected_subtitles": []
+                        }
+                    ],
+                    "show_left_filters_panel": false,
+                    "eligible_for_left_filters_panel": false
+                }
+            }
+        }
+    ],
+    "metadata": {
+        "current_tab_id": "restaurant_tab",
+        "request_uuid": "b2de1bdc-f3ec-40d4-b19e-cd5866aa0b4f",
+        "search_id": "b2de1bdc-f3ec-40d4-b19e-cd5866aa0b4f",
+        "query": "Brooklyn, NY, United States",
+        "query_text": "Brooklyn, NY \u00b7 Restaurants",
+        "current_refinement_paths": [
+            "/restaurants"
+        ],
+        "federated_search_id": "7a0a8446-28db-4ab5-bdfc-153852d3c638",
+        "federated_search_session_id": "65bbbf79-47d4-40b3-82ae-c91103f41bb5",
+        "suggestions": [
+            {
+                "title": "All",
+                "type": "for_you",
+                "search_params": {
+                    "params": [],
+                    "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+                    "query": "Brooklyn, NY, United States",
+                    "refinement_paths": [
+                        "/for_you"
+                    ],
+                    "refinement_path": "/for_you",
+                    "tab_id": "all_tab"
+                },
+                "is_selected": false
+            },
+            {
+                "title": "Homes",
+                "type": "homes",
+                "search_params": {
+                    "params": [],
+                    "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+                    "query": "Brooklyn, NY, United States",
+                    "refinement_paths": [
+                        "/homes"
+                    ],
+                    "refinement_path": "/homes",
+                    "tab_id": "home_tab"
+                },
+                "is_selected": false
+            },
+            {
+                "title": "Experiences",
+                "type": "experiences",
+                "search_params": {
+                    "params": [],
+                    "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+                    "query": "Brooklyn, NY, United States",
+                    "refinement_paths": [
+                        "/experiences"
+                    ],
+                    "refinement_path": "/experiences",
+                    "tab_id": "experience_tab"
+                },
+                "is_selected": false
+            },
+            {
+                "title": "Restaurants",
+                "type": "restaurants",
+                "search_params": {
+                    "params": [],
+                    "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+                    "query": "Brooklyn, NY, United States",
+                    "refinement_paths": [
+                        "/restaurants"
+                    ],
+                    "refinement_path": "/restaurants",
+                    "tab_id": "restaurant_tab"
+                },
+                "is_selected": true
+            }
+        ],
+        "has_map": true,
+        "show_as_hint": false,
+        "marquee_mode": "DEFAULT",
+        "satori_version": "1.0.3",
+        "gtm_experiments": [],
+        "saved_search_responses": [],
+        "map_toggle": true,
+        "price_display_strategy": "CONTROL",
+        "satori_config": {
+            "market": "Mumbai",
+            "state_code": "",
+            "country_code": "IN",
+            "region_id": -1,
+            "version": "1.0.7"
+        },
+        "page_metadata": {
+            "page_title": "Brooklyn, NY \u00b7 Restaurants \u00b7 Airbnb",
+            "render_type": "EXPLORE",
+            "location_query": true
+        },
+        "explore_map_metadata": {
+            "pins": [],
+            "type": "MAP_WITH_INVENTORY"
+        },
+        "geography": {
+            "accuracy": 5,
+            "city": "Brooklyn",
+            "country_code": "US",
+            "country": "United States",
+            "lat": 40.6781784,
+            "lng": -73.9441579,
+            "place_id": "ChIJCSF8lBZEwokRhngABHRcdoI",
+            "precision": "zip",
+            "result_type": "sublocality",
+            "state": "New York",
+            "state_short": "NY",
+            "extended_precision": "zip",
+            "district": "Brooklyn",
+            "full_address": "Brooklyn, NY, USA",
+            "market": "New York",
+            "province": "Kings County"
+        },
+        "refinement_display_text": "Restaurants"
+    }
+}

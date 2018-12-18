@@ -1,0 +1,185 @@
+{
+    "similar_restaurant": {
+        "recommendation_items": [
+            {
+                "banner_picture": {
+                    "id": 625737495,
+                    "dominant_saturated_color": "#31120D",
+                    "large_ro": "https://a0.muscache.com/im/pictures/093906f6-5a30-4824-b516-3b26b297c39a.jpg?aki_policy=large_ro",
+                    "picture": "https://a0.muscache.com/im/pictures/093906f6-5a30-4824-b516-3b26b297c39a.jpg?aki_policy=large",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AVIpHDk9KTE+QNbZ7OLBugFtam0GCPwS8fgKEBLs6N4BVUpJMCMY0sjRGhYTFxUNzUgSQjWYXCQAAAAASUVORK5CYII=",
+                    "saturated_a11y_dark_color": "#31120D",
+                    "scrim_color": "#31120D",
+                    "original_picture": "https://a0.muscache.com/pictures/093906f6-5a30-4824-b516-3b26b297c39a.jpg",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/093906f6-5a30-4824-b516-3b26b297c39a.jpg?aki_policy=x_large"
+                },
+                "picture": {
+                    "id": 625737495,
+                    "dominant_saturated_color": "#31120D",
+                    "large_ro": "https://a0.muscache.com/im/pictures/093906f6-5a30-4824-b516-3b26b297c39a.jpg?aki_policy=large_ro",
+                    "picture": "https://a0.muscache.com/im/pictures/093906f6-5a30-4824-b516-3b26b297c39a.jpg?aki_policy=large",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AVIpHDk9KTE+QNbZ7OLBugFtam0GCPwS8fgKEBLs6N4BVUpJMCMY0sjRGhYTFxUNzUgSQjWYXCQAAAAASUVORK5CYII=",
+                    "saturated_a11y_dark_color": "#31120D",
+                    "scrim_color": "#31120D",
+                    "original_picture": "https://a0.muscache.com/pictures/093906f6-5a30-4824-b516-3b26b297c39a.jpg",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/093906f6-5a30-4824-b516-3b26b297c39a.jpg?aki_policy=x_large"
+                },
+                "description": "172 hosts recommend",
+                "query_param": {},
+                "sub_text": "Classic Italian",
+                "title": "The Meatball Shop - Lower East Side",
+                "id": 993,
+                "lat": 40.7216708,
+                "lng": -73.9887463,
+                "item_type": "guidebook_activity",
+                "size": "medium",
+                "pictures": [
+                    {
+                        "id": 625737495,
+                        "dominant_saturated_color": "#31120D",
+                        "large_ro": "https://a0.muscache.com/im/pictures/093906f6-5a30-4824-b516-3b26b297c39a.jpg?aki_policy=large_ro",
+                        "picture": "https://a0.muscache.com/im/pictures/093906f6-5a30-4824-b516-3b26b297c39a.jpg?aki_policy=large",
+                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AVIpHDk9KTE+QNbZ7OLBugFtam0GCPwS8fgKEBLs6N4BVUpJMCMY0sjRGhYTFxUNzUgSQjWYXCQAAAAASUVORK5CYII=",
+                        "saturated_a11y_dark_color": "#31120D",
+                        "scrim_color": "#31120D",
+                        "original_picture": "https://a0.muscache.com/pictures/093906f6-5a30-4824-b516-3b26b297c39a.jpg",
+                        "xl_picture": "https://a0.muscache.com/im/pictures/093906f6-5a30-4824-b516-3b26b297c39a.jpg?aki_policy=x_large"
+                    }
+                ],
+                "point_of_interest_id": 211,
+                "sub_text_color": "#484848"
+            },
+            {
+                "banner_picture": {
+                    "id": 625734880,
+                    "dominant_saturated_color": "#2D4061",
+                    "large_ro": "https://a0.muscache.com/im/pictures/78d6688f-df19-4e1e-89ea-f376994d7448.jpg?aki_policy=large_ro",
+                    "picture": "https://a0.muscache.com/im/pictures/78d6688f-df19-4e1e-89ea-f376994d7448.jpg?aki_policy=large",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//ASgzQQf86gEEBgoFBPgA/wE3Q1YOBfb5+v0gEQkC/vIBUVllHyI03dXE9/XvKQ33jcITmdFPTzsAAAAASUVORK5CYII=",
+                    "saturated_a11y_dark_color": "#2D4061",
+                    "scrim_color": "#2A2C29",
+                    "original_picture": "https://a0.muscache.com/pictures/78d6688f-df19-4e1e-89ea-f376994d7448.jpg",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/78d6688f-df19-4e1e-89ea-f376994d7448.jpg?aki_policy=x_large"
+                },
+                "picture": {
+                    "id": 625734880,
+                    "dominant_saturated_color": "#2D4061",
+                    "large_ro": "https://a0.muscache.com/im/pictures/78d6688f-df19-4e1e-89ea-f376994d7448.jpg?aki_policy=large_ro",
+                    "picture": "https://a0.muscache.com/im/pictures/78d6688f-df19-4e1e-89ea-f376994d7448.jpg?aki_policy=large",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//ASgzQQf86gEEBgoFBPgA/wE3Q1YOBfb5+v0gEQkC/vIBUVllHyI03dXE9/XvKQ33jcITmdFPTzsAAAAASUVORK5CYII=",
+                    "saturated_a11y_dark_color": "#2D4061",
+                    "scrim_color": "#2A2C29",
+                    "original_picture": "https://a0.muscache.com/pictures/78d6688f-df19-4e1e-89ea-f376994d7448.jpg",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/78d6688f-df19-4e1e-89ea-f376994d7448.jpg?aki_policy=x_large"
+                },
+                "description": "347 hosts recommend",
+                "query_param": {},
+                "sub_text": "American Cafe",
+                "title": "Marlow and Sons",
+                "id": 1066,
+                "lat": 40.7106671,
+                "lng": -73.965696,
+                "item_type": "guidebook_activity",
+                "size": "medium",
+                "pictures": [
+                    {
+                        "id": 625734880,
+                        "dominant_saturated_color": "#2D4061",
+                        "large_ro": "https://a0.muscache.com/im/pictures/78d6688f-df19-4e1e-89ea-f376994d7448.jpg?aki_policy=large_ro",
+                        "picture": "https://a0.muscache.com/im/pictures/78d6688f-df19-4e1e-89ea-f376994d7448.jpg?aki_policy=large",
+                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//ASgzQQf86gEEBgoFBPgA/wE3Q1YOBfb5+v0gEQkC/vIBUVllHyI03dXE9/XvKQ33jcITmdFPTzsAAAAASUVORK5CYII=",
+                        "saturated_a11y_dark_color": "#2D4061",
+                        "scrim_color": "#2A2C29",
+                        "original_picture": "https://a0.muscache.com/pictures/78d6688f-df19-4e1e-89ea-f376994d7448.jpg",
+                        "xl_picture": "https://a0.muscache.com/im/pictures/78d6688f-df19-4e1e-89ea-f376994d7448.jpg?aki_policy=x_large"
+                    }
+                ],
+                "point_of_interest_id": 297,
+                "sub_text_color": "#484848"
+            },
+            {
+                "banner_picture": {
+                    "id": 625735159,
+                    "dominant_saturated_color": "#FCE496",
+                    "large_ro": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=large_ro",
+                    "picture": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=large",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AUsiCGlIEhIG+JWz87nmAQGdTQ5CTi35BBOZj7jQ7P8BSR8GFAoBGRAF5+/75vT/q8kT7AYdF3cAAAAASUVORK5CYII=",
+                    "saturated_a11y_dark_color": "#8A6B04",
+                    "scrim_color": "#180906",
+                    "original_picture": "https://a0.muscache.com/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=x_large"
+                },
+                "picture": {
+                    "id": 625735159,
+                    "dominant_saturated_color": "#FCE496",
+                    "large_ro": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=large_ro",
+                    "picture": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=large",
+                    "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AUsiCGlIEhIG+JWz87nmAQGdTQ5CTi35BBOZj7jQ7P8BSR8GFAoBGRAF5+/75vT/q8kT7AYdF3cAAAAASUVORK5CYII=",
+                    "saturated_a11y_dark_color": "#8A6B04",
+                    "scrim_color": "#180906",
+                    "original_picture": "https://a0.muscache.com/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg",
+                    "xl_picture": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=x_large"
+                },
+                "description": "435 hosts recommend",
+                "query_param": {},
+                "sub_text": "Italian Pizzeria",
+                "title": "Speedy Romeo - Brooklyn",
+                "id": 1011,
+                "lat": 40.6875171,
+                "lng": -73.9600013,
+                "item_type": "guidebook_activity",
+                "size": "medium",
+                "pictures": [
+                    {
+                        "id": 625735159,
+                        "dominant_saturated_color": "#FCE496",
+                        "large_ro": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=large_ro",
+                        "picture": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=large",
+                        "preview_encoded_png": "iVBORw0KGgoAAAANSUhEUgAAAAUAAAADCAIAAADUVFKvAAAAO0lEQVQIHQEwAM//AUsiCGlIEhIG+JWz87nmAQGdTQ5CTi35BBOZj7jQ7P8BSR8GFAoBGRAF5+/75vT/q8kT7AYdF3cAAAAASUVORK5CYII=",
+                        "saturated_a11y_dark_color": "#8A6B04",
+                        "scrim_color": "#180906",
+                        "original_picture": "https://a0.muscache.com/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg",
+                        "xl_picture": "https://a0.muscache.com/im/pictures/79746a43-4df2-4600-87f3-3a64a1dc8776.jpg?aki_policy=x_large"
+                    }
+                ],
+                "point_of_interest_id": 233,
+                "sub_text_color": "#484848"
+            }
+        ],
+        "see_all_info": {
+            "query": {},
+            "search_params": {
+                "params": [
+                    {
+                        "key": "click_referer",
+                        "value_type": "string",
+                        "in_array": false,
+                        "value": "t:SEE_ALL|sid:7cc264ed-9a4d-4119-9f69-4922cc75a23c",
+                        "delete": false,
+                        "invisible_to_user": false
+                    },
+                    {
+                        "key": "location",
+                        "value_type": "string",
+                        "in_array": false,
+                        "value": "Brooklyn, NY",
+                        "delete": false,
+                        "invisible_to_user": false
+                    }
+                ],
+                "query": "Brooklyn, NY",
+                "refinement_paths": [
+                    "/restaurants"
+                ],
+                "refinement_path": "/restaurants",
+                "tab_id": "restaurant_tab"
+            },
+            "search_session_id": "7cc264ed-9a4d-4119-9f69-4922cc75a23c",
+            "title": "Show all (346)",
+            "top_level_filters": {},
+            "total_count": 346
+        },
+        "title": "Similar restaurants nearby"
+    },
+    "metadata": {}
+}
